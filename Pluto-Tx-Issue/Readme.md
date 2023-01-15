@@ -1,3 +1,3 @@
 # Transmit issue, intermintment TX
 
-    ![Sdr console](dash.png)
+![Sdr console](dash.png)
