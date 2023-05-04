@@ -49,6 +49,7 @@ The example how it looks like with bottom line, this line is unwanted.
 ![alt text](./img/cut-off.png "with bottom")
 
 
+
 After processing in openscad, press F6 and export to stl.
 You can process model directly (without bottom part - long processing in openscad) or customize it further in Blender (more quicker way) or any other 3d modeling SW.
 
@@ -61,3 +62,7 @@ And I also adjust height to 0.8mm only, probably I would make some testing for o
 
 ![alt text](./img/scale-z.png "Title")
 
+
+## Result from print
+
+It is not posible to use stencil without further adjusting with knife. Not suitable for contacts with distance less then 0.2mm
