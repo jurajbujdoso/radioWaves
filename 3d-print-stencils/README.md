@@ -1,4 +1,6 @@
 # Creating PCB stencil on 3D printer
+![alt text](./img/pcb0.png "Title")
+
 
 Prove of concept. The Kicat provides vizualizer for pcb gerber files, see bellow. So it should be possible to read this data and create some 3d model.
 ![alt text](./img/vizual-kicad.png "Title")
