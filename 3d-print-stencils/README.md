@@ -7,3 +7,4 @@ pip install pillow
 ```
 
 
+![alt text](./img/vizual-kicad.png "Title")
