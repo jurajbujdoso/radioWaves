@@ -50,7 +50,9 @@ The example how it looks like with bottom line, this line is unwanted.
 
 
 After processing in openscad, press F6 and export to stl.
-You can process model directly or customize it further in Blender or any other 3d modeling SW.
+You can process model directly (without bottom part - long processing in openscad) or customize it further in Blender (more quicker way) or any other 3d modeling SW.
+
+So when you will have prepared stl without bottom part, you are ready to print it.
 
 ## Print
 Before printing you have to set proper size of the stencil. This can be customized in your printing program.
