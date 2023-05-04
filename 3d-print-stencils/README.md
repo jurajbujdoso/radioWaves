@@ -5,7 +5,7 @@
 Prove of concept. The Kicat provides vizualizer for pcb gerber files, see bellow. So it should be possible to read this data and create some 3d model.
 ![alt text](./img/vizual-kicad.png "Title")
 
- Base on gerber files format it quite chalange to understend it. Multiple dimension array of objects and different format in CNC like format.
+ Base on gerber files format it quite chalange to understand it. Multiple dimension array of objects and different format in CNC like format.
  But I found an easy way:
 
 # Starting wiht creation of 3d model
