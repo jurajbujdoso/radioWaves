@@ -40,6 +40,8 @@ Just open openscad file in same folder, when you have stored result destination.
 generate-stl.scad              -- generate just an model, but it will have no holes on the bottom :(
 generate-stl-withBottom.scad   -- remove  the bottom problems, suitable for postprocessing
 ```
+![alt text](./img/show-in-openscad.png "")
+
 
 The example how it looks like with bottom line, this line is unwanted.
 ![alt text](./img/cut-off.png "with bottom")
