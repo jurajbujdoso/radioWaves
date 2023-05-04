@@ -62,7 +62,14 @@ And I also adjust height to 0.8mm only, probably I would make some testing for o
 
 ![alt text](./img/scale-z.png "Title")
 
+3D view on object with bottom line:
+[Ouptput](./ARCHIVE/generate-stl-withBottom.stl)
+
+
 
 ## Result from print
+
+Outpur review:
+[Ouptput](./ARCHIVE/generate-stl-automaticaly.stl)
 
 It is not posible to use stencil without further adjusting with knife. Not suitable for contacts with distance less then 0.2mm
