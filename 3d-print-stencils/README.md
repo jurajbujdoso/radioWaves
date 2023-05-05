@@ -71,6 +71,9 @@ And I also adjust height to 0.8mm only, probably I would make some testing for o
 Outpur review:
 [Ouptput](./ARCHIVE/generate-stl-automaticaly.stl)
 
+[Ouptput](./img/1683277393510.jpg)
+
+
 It is not posible to use stencil without further adjusting with knife. Not suitable for contacts with distance less then 0.2mm.
 
 It will depends on your printer slicer, but in "Cura" there is an option for "HOLE horizontal expansion".
