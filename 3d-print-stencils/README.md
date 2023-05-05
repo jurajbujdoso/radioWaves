@@ -73,7 +73,7 @@ Outpur review:
 
 ![alt text](./img/1683277393510.jpg "")
 
-It is not posible to use stencil without further adjusting with knife. Not suitable for contacts with distance less then 0.2mm.
+It is not posible to use stencil without further adjusting with knife. Not suitable for contacts with distance less then 0.2mm (without some adjustment).
 
 It will depends on your printer slicer, but in "Cura" there is an option for "HOLE horizontal expansion".
 If your printed holes are smaller, then you need add -sign, for covering holes +.
