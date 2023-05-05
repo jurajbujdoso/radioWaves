@@ -72,4 +72,12 @@ And I also adjust height to 0.8mm only, probably I would make some testing for o
 Outpur review:
 [Ouptput](./ARCHIVE/generate-stl-automaticaly.stl)
 
-It is not posible to use stencil without further adjusting with knife. Not suitable for contacts with distance less then 0.2mm
+It is not posible to use stencil without further adjusting with knife. Not suitable for contacts with distance less then 0.2mm.
+
+It will depends on your printer slicer, but in "Cura" there is an option for "HOLE horizontal expansion".
+If your printed holes are smaller, then you need add -sign, for covering holes +.
+In my case -0.1 result in afordable printing.
+
+There are several videos :
+https://www.youtube.com/results?search_query=cura+hole+horizontal
+
