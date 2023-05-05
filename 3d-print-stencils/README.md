@@ -14,7 +14,6 @@ Prove of concept. The Kicat provides vizualizer for pcb gerber files, see bellow
 ## Install what is required
 Install python library:
 ```
-pip install pycairo
 pip install pcb-tools
 pip install pycairo
 pip install numpy
@@ -39,8 +38,8 @@ It will read the file front-paste.gbr and create file destination.png
 Openscad provide way to create 3d model from picture. 
 Just open openscad file in same folder, when you have stored result destination.png
 ```
-generate-stl.scad              -- generate just an model, but it will have no holes on the bottom :(
-generate-stl-withBottom.scad   -- remove  the bottom problems, suitable for postprocessing
+generate-stl.scad              -- remove  the bottom problems, suitable for postprocessing
+generate-stl-withBottom.scad   -- generate just an model, but it will have no holes on the bottom :(
 ```
 ![alt text](./img/show-in-openscad.png "")
 
