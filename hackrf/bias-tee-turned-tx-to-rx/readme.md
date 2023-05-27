@@ -18,9 +18,12 @@ Q1.Q2.Q4	        MOSFET_P	Fairchild	BSS84	MOSFET P-CH 50V 130MA SOT-23
 ```
 I was not able to buy BSS84 on mouser, but it is not an problem to buy it on aliexpress.
 
+As there are more version of product, try to find out PCB which is ~ to your release.
+
 
 HackRF assembly:
-file:///home/juraj/Downloads/Hackrf/hackrf-one-Assembly.pdf
+http://uglyduck.vajn.icu/PDF/hackrf/hardware/hackrf-one-assembly.pdf
+
 
 HACKRF Bom:
 https://raw.githubusercontent.com/gazhayes/HackRF-Blue/master/BOM.xlsx
