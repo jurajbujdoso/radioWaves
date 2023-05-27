@@ -1,12 +1,12 @@
 # HackRF- repair 
 
-I have used bias tee circuit and wrongli assign tx and rx part.
+I have used bias tee circuit and wrongly assign tx and rx part.
 So the power voltage for LNB has been directed to hackrf antenna.
 
-As side effect device smell.
-After some time I have remove RF cover plate and find out affected parts neer to antenna.
+As side effect device smells.
+After some time, I have remove the RF cover plate and find out affected parts near the antenna.
 
-I have used schematic to identify fail parts, but the quick way forward is open Assembly and BOM files.
+I have used the schematic to identify fail parts, but the quickest way forward is open Assembly and BOM files.
 In my case L13 and Q4 has been damaged and I have also fix the pcb connection between this 2 elements.
 
 In my case D1,R36,C64,C63 work as design.
