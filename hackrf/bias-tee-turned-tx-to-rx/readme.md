@@ -31,5 +31,6 @@ https://raw.githubusercontent.com/gazhayes/HackRF-Blue/master/BOM.xlsx
 HackRF schematic:
 https://cdn.greatrf.com/wp-content/uploads/2014/06/HackRF-Schematic.pdf
 
+  ![assam](./rep-hack.png)
 
 
