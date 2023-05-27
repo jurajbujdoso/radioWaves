@@ -1,7 +1,7 @@
 # HackRF- repair 
 
-I have used bias tee circuit and wrongly assign tx and rx part.
-So the power voltage for LNB has been directed to hackrf antenna.
+I have used bias tee circuit and wrongly assign (dc voltage) to rx part.
+So the power voltage for LNB has been directed to hackrf rx antenna directly :(
 
 As side effect device smells.
 After some time, I have remove the RF cover plate and find out affected parts near the antenna.
