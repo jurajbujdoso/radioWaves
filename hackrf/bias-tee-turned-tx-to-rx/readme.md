@@ -32,6 +32,6 @@ HackRF schematic:
 https://cdn.greatrf.com/wp-content/uploads/2014/06/HackRF-Schematic.pdf
 
   ![assam](./rep-hack.png)
-  ![assam2](./1685218877872.jpg)
+  <img src="./1685218877872.jpg" width=50%>
 
 
