@@ -7,7 +7,8 @@ As side effect device smells.
 After some time, I have remove the RF cover plate and find out affected parts near the antenna.
 
 I have used the schematic to identify fail parts, but the quickest way forward is open Assembly and BOM files.
-In my case L13 and Q4 has been damaged and I have also fix the pcb connection between this 2 elements.
+In my case L13 and Q4 has been damaged and I have also fix the pcb connection between this 2 elements
+(used small copper sticker, which has been tinned).
 
 In my case D1,R36,C64,C63 work as design.
 
