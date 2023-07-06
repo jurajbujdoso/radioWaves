@@ -13,6 +13,8 @@ http://sim.okawa-denshi.jp/en/RLCtool.php
 
 ***
 
+Just upload the zip gerber files to your pcb vendor.
+
 
 ![picture](pcb.jpg "")
 
