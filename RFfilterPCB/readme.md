@@ -5,7 +5,7 @@ Filter2 is base on smd components.
 Current dessing support majority of classical filters. You can select circuits base on your needs. Just use
 https://rf-tools.com/lc-filter/ or any other tools.
 
-![picture](pcb.png "")
+![picture](pcb.jpg "")
 
 
 # Type of filters
