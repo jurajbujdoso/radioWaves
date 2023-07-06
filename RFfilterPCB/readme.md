@@ -5,6 +5,15 @@ Filter2 is base on smd components.
 Current dessing support majority of classical filters. You can select circuits base on your needs. Just use
 https://rf-tools.com/lc-filter/ or any other tools.
 
+https://www.digikey.sk/en/resources/conversion-calculators/conversion-calculator-low-pass-and-high-pass-filter
+
+https://www.wa4dsy.net/cgi-bin/lc_filter4?FilterResponse=Lowpass&poles=3&cutoff=24&funits=MHZ&Z=50
+
+http://sim.okawa-denshi.jp/en/RLCtool.php
+
+***
+
+
 ![picture](pcb.jpg "")
 
 
