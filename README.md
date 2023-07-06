@@ -10,6 +10,6 @@ Contains resources for self study and ... .
 
 [Hackrf damaged](./hackrf/bias-tee-turned-tx-to-rx) = hackrf damaged after sending 12V from bias-T to hackrf antenna
 
-[RF FILTER pcb](./radioWaves/tree/main/RFfilterPCB) = universal rf filter pcb
+[RF FILTER pcb](https://github.com/jurajbujdoso/radioWaves/tree/main/RFfilterPCB) = universal rf filter pcb
 
 
