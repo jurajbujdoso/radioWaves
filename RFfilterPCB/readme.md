@@ -1,5 +1,5 @@
 # General use
-This filter contain classical components with ferrit core, which can custom base on demand.
+This filter contain classical components with ferrit core, which can be custom base on demand.
 Filter2 is base on smd components.
 
 Current dessing support majority of classical filters. You can select circuits base on your needs. Just use
