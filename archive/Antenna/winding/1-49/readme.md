@@ -8,3 +8,8 @@ In order to match the end fed half wave antenna to the coaxial feeder, it is nec
 
 
  ![winding 1:49](https://github.com/jurajbujdoso/radioWaves/blob/main/archive/Antenna/winding/1-49/endfed-unun.webp)
+
+
+Work instruction:
+https://youtu.be/qvJy4FC2wJ4?t=1704
+
